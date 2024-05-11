@@ -138,6 +138,26 @@ section {
   letter-spacing: 2px;
 }
 
+.text h3 {
+  padding-top: 70px;
+  font-size: 40px;
+  line-height: 1.1;
+}
+
+.text h2 {
+  padding-top: 50px;
+  font-size: 30px;
+  line-height: 1.1;
+}
+
+.text p {
+  padding-top: 20px;
+}
+
+.text li {
+  padding-left: 20px;
+}
+
 /* responsive */
 
 @media (max-width: 1400px) {

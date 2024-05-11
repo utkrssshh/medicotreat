@@ -142,16 +142,19 @@ section {
   padding-top: 70px;
   font-size: 40px;
   line-height: 1.1;
+  color: #3b3b3b;
 }
 
 .text h2 {
   padding-top: 50px;
   font-size: 30px;
   line-height: 1.1;
+  color: #3b3b3b;
 }
 
 .text p {
   padding-top: 20px;
+  color: #3b3b3b;
 }
 
 .text li {
